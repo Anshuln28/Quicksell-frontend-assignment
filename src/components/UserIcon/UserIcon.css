@@ -1,0 +1,28 @@
+.user {
+  display: flex;
+}
+.user_icon {
+  /* padding: 16px; */
+  height: 35px;
+  width: 35px;
+  background-color: blue;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 700;
+}
+.dot {
+  position: relative;
+  top: 15px;
+  right: 10px;
+  color: grey;
+}
+.icon {
+  height: 10px !important;
+  width: 10px !important;
+  border: 2px solid white;
+  border-radius: 50%;
+}
