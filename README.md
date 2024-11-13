@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Kanban board application, developed using ReactJS, enables users to manage and visualize ticket data seamlessly. Leveraging the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment), it provides an interactive board for organizing tickets by various categories. Users can group, sort, and prioritize tickets efficiently, making it an ideal tool for project and task management. You can view a live version [here]().
+This Kanban board application, developed using ReactJS, enables users to manage and visualize ticket data seamlessly. Leveraging the [Quicksell API](https://api.quicksell.co/v1/internal/frontend-assignment), it provides an interactive board for organizing tickets by various categories. Users can group, sort, and prioritize tickets efficiently, making it an ideal tool for project and task management. You can view a live version [here](https://quicksell-frontend-assignment-anshuln28.vercel.app/).
 
 ## Features
 
@@ -32,7 +32,7 @@ This Kanban board application, developed using ReactJS, enables users to manage 
 1. **Clone the Repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/Anshuln28/Quicksell-frontend-assignment.git
 
 2. **Navigate to the Project Directory:**
 
